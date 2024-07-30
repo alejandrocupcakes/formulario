@@ -1,0 +1,24 @@
+body{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+justify-content: space-around;
+align-content: stretch;
+height: 100%;
+width: 100%;
+padding: 10%;
+}
+.form-group{
+    background-color: rgb(145, 206, 191);
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+h1{
+    color: black;
+    font-size: 40px;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+}
